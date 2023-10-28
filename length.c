@@ -8,7 +8,7 @@ int strleng(char str[100]){
 }
 
 int main(){
-    char a[100]="hello";
+    char a[100]="hello-1";
     int len=strleng(a[100]);
     printf("%d",len);
     return 0;
