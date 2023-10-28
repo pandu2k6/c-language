@@ -10,6 +10,6 @@ int main(){
     }
     for (i=0;i<5;i++){
         summ[i]=arr1[i]+arr2[i];
-        printf("index  %dis:%d\n",i,summ[i]);
+        printf("INDEX  %dis:%d\n",i,summ[i]);
     }    
 }
